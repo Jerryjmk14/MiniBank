@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.btn {
+    @apply bg-color-secondary py-3 px-6 rounded-lg hover:opacity-70
+}
